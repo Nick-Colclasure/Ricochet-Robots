@@ -1,0 +1,63 @@
+16 16
+
+robot R 14 15
+robot G 5 3
+robot B 4 10
+robot Y 7 13
+robot S 15 4
+
+goal any 9 6
+
+horizontal_wall 5.5 1
+horizontal_wall 6.5 2
+horizontal_wall 4.5 3
+horizontal_wall 3.5 6
+horizontal_wall 6.5 8
+horizontal_wall 7.5 8
+vertical_wall 8 7.5
+vertical_wall 6 7.5
+vertical_wall 7 1.5
+vertical_wall 5 3.5
+vertical_wall 3 6.5
+vertical_wall 1 4.5
+
+horizontal_wall 2.5 14
+horizontal_wall 2.5 16
+horizontal_wall 3.5 10
+horizontal_wall 4.5 15
+horizontal_wall 7.5 9
+horizontal_wall 7.5 13
+vertical_wall 1 10.5
+vertical_wall 2 14.5
+vertical_wall 4 9.5
+vertical_wall 5 15.5
+vertical_wall 7 12.5
+vertical_wall 8 9.5
+
+horizontal_wall 8.5 6
+horizontal_wall 9.5 8
+horizontal_wall 10.5 2
+horizontal_wall 11.5 5
+horizontal_wall 12.5 1
+horizontal_wall 13.5 6
+horizontal_wall 14.5 4
+vertical_wall 9 6.5
+vertical_wall 9 7.5
+vertical_wall 10 2.5
+vertical_wall 11 4.5
+vertical_wall 14 6.5
+vertical_wall 15 3.5
+vertical_wall 16 7.5
+
+horizontal_wall 9.5 9
+horizontal_wall 10.5 14
+horizontal_wall 12.5 10
+horizontal_wall 12.5 16
+horizontal_wall 13.5 15
+horizontal_wall 14.5 11
+vertical_wall 9 9.5
+vertical_wall 10 13.5
+vertical_wall 12 10.5
+vertical_wall 14 15.5
+vertical_wall 15 10.5
+vertical_wall 16 12.5

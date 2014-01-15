@@ -1,0 +1,1 @@
+A solver for a game known as Ricochet Robots. Utilizes a bredth first search to searrch the state space until it finds one of the shortest solutions.

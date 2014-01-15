@@ -1,0 +1,15 @@
+6 6
+
+robot A 1 1
+
+horizontal_wall 1.5 5
+horizontal_wall 2.5 3
+horizontal_wall 2.5 2
+horizontal_wall 5.5 2
+horizontal_wall 5.5 6
+vertical_wall 1 2.5
+vertical_wall 3 4.5
+vertical_wall 5 1.5
+vertical_wall 6 2.5
+
+goal A 3 3
